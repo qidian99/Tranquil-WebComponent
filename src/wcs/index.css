@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Apple Chancery';
+  src: local('Apple Chancery'),
+  url(./fonts/apple_chancery.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Lobster';
+  src: local('Lobster'),
+    url(./fonts/lobster.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Playball';
+  src: local('Playball'),
+    url(./fonts/playball.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Snell Roundhand';
+  src: local('Snell Roundhand'),
+    url(./fonts/snell_roundhand.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Fugaz One';
+  src: local('Fugaz One'),
+    url(./fonts/fugaz_one.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Permanent Marker';
+  src: local('Permanent Marker'),
+    url(./fonts/permanent_marker.woff2) format('woff2');
+}
+
